@@ -1,2 +1,3 @@
-# Python
-Python ile yazdıgim kodlar
+# Python 
+Python ile Karmasik sayı hesaplma
+
